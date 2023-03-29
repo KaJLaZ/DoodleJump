@@ -1,0 +1,6 @@
+{
+  "spriteFilePath": "resources/sprites/ability.png",
+  "width": 12,
+  "height": 8,
+  "spawningJumpAmount" : 50
+}

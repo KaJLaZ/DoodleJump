@@ -1,0 +1,11 @@
+{
+  "spriteFilePath": "resources/sprites/doodle.png",
+  "x": 40,
+  "y": 90,
+  "width": 10,
+  "height": 10,
+  "moveDistance" : 2,
+  "gravitation": -0.6,
+  "maxHeight": 50,
+  "jumpForce": 0.5
+}

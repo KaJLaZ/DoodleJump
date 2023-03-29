@@ -1,0 +1,8 @@
+{
+  "spriteFilePath": "resources/sprites/platform.png",
+  "x": 40,
+  "y": 50,
+  "width": 12,
+  "height": 5,
+  "platformAmount": 10
+}
